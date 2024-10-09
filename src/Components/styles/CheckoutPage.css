@@ -1,0 +1,26 @@
+.checkout-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.cart-summary {
+    margin-bottom: 20px;
+}
+
+.checkout-form {
+    margin-top: 20px;
+}
+
+h3 {
+    margin-top: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+}
